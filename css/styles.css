@@ -4,3 +4,20 @@
 :root{
     --bs-body-font-family : 'Odor Mean Chey' 
 }
+
+.img_buol{
+    height: 60px;
+}
+
+.img_pu{
+    height: 50px;
+}
+
+.container_default{
+    width: 1140px;
+}
+
+.container_carousel{
+    width: 1140px;
+    height: 270;
+}
